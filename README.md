@@ -1,0 +1,1 @@
+# TP4_PatronModele_RabbitMQ
