@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogEmitter", "LogEmitter\LogEmitter.csproj", "{62BD0BEA-DAF0-410E-AD35-E807956FE4CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileDump", "FileDump\FileDump.csproj", "{2328B328-AFCC-4EED-BDBB-0E806D0B9042}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogAnalysis", "LogAnalysis\LogAnalysis.csproj", "{343DE130-0C6C-4B3A-B51D-01715AB39E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BD0BEA-DAF0-410E-AD35-E807956FE4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BD0BEA-DAF0-410E-AD35-E807956FE4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BD0BEA-DAF0-410E-AD35-E807956FE4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BD0BEA-DAF0-410E-AD35-E807956FE4CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2328B328-AFCC-4EED-BDBB-0E806D0B9042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2328B328-AFCC-4EED-BDBB-0E806D0B9042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2328B328-AFCC-4EED-BDBB-0E806D0B9042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2328B328-AFCC-4EED-BDBB-0E806D0B9042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343DE130-0C6C-4B3A-B51D-01715AB39E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343DE130-0C6C-4B3A-B51D-01715AB39E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343DE130-0C6C-4B3A-B51D-01715AB39E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343DE130-0C6C-4B3A-B51D-01715AB39E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {146C06C3-ACDE-4CC3-BBDD-DC3EAB88719A}
+	EndGlobalSection
+EndGlobal

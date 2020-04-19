@@ -1,0 +1,13 @@
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.exe
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.deps.json
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.runtimeconfig.json
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.runtimeconfig.dev.json
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.dll
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.pdb
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.AssemblyInfoInputs.cache
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.AssemblyInfo.cs
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csproj.CopyComplete
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.dll
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.pdb
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csprojAssemblyReference.cache

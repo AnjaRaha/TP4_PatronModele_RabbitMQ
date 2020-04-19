@@ -1,0 +1,13 @@
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\bin\Debug\netcoreapp3.1\FileDump.exe
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\bin\Debug\netcoreapp3.1\FileDump.deps.json
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\bin\Debug\netcoreapp3.1\FileDump.runtimeconfig.json
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\bin\Debug\netcoreapp3.1\FileDump.runtimeconfig.dev.json
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\bin\Debug\netcoreapp3.1\FileDump.dll
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\bin\Debug\netcoreapp3.1\FileDump.pdb
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\obj\Debug\netcoreapp3.1\FileDump.AssemblyInfoInputs.cache
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\obj\Debug\netcoreapp3.1\FileDump.AssemblyInfo.cs
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\obj\Debug\netcoreapp3.1\FileDump.csproj.CopyComplete
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\obj\Debug\netcoreapp3.1\FileDump.dll
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\obj\Debug\netcoreapp3.1\FileDump.pdb
+C:\Users\tsile\source\repos\TP_RabbitMQ\FileDump\obj\Debug\netcoreapp3.1\FileDump.csprojAssemblyReference.cache

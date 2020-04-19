@@ -1,0 +1,13 @@
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.exe
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.deps.json
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.runtimeconfig.json
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.runtimeconfig.dev.json
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.dll
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.pdb
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.AssemblyInfoInputs.cache
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.AssemblyInfo.cs
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.csproj.CopyComplete
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.dll
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.pdb
+C:\Users\tsile\source\repos\TP_RabbitMQ\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.csprojAssemblyReference.cache
