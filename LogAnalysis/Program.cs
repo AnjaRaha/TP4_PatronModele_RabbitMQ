@@ -48,7 +48,7 @@ namespace LogAnalysis
                 var timer = new System.Threading.Timer((e) =>
                 {
 
-                    //Affichage
+                    //Affichage des nombre de logs selon les severity 
                     Console.WriteLine("Info:" + listeLog.Where(elem => elem.severity == "Info").Count() + " log");
                     Console.WriteLine("Warning:" + listeLog.Where(elem => elem.severity == "Warning").Count() + " log");
                     Console.WriteLine("Error:" + listeLog.Where(elem => elem.severity == "Error").Count() + " log");
